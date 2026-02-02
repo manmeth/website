@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Manmeet Kaur Oberoi',
     title: 'UG STUDENT|BSc Economics with Data Science',
-    image: getAsset('images/photo.png'), // Customize or replace with your profile image
+    image: getAsset('images/manmeet.png'), // Customize or replace with your profile image
     description:
       'I am currently pursuing a Bachelor of Science in Economics with Data Science, where I am  developing a strong foundation in economic analysis along with practical data handling and analytical skills. 
       '\n' +
