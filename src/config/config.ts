@@ -6,23 +6,21 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Put your name inside the quote',
-    title: 'Your Title | Your Role',
+    name: 'Manmeet Kaur Oberoi',
+    title: 'UG STUDENT|BSc Economics with Data Science',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I am currently pursuing a Bachelor of Science in Economics with Data Science, where I am  developing a strong foundation in economic analysis along with practical data handling and analytical skills. 
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'I am currently studying in Christ University and am interested in Data analysis and solving real world problems through Data Science.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
-      '\n' +
-      'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+      'I am currently the assistant editor at Equinomics,The Economics Department Newsletter that is helping me with my research skills.\n' +
+      '\n' + 
+    'location: Bengaluru, India',
   },
 
   seo: {
-    title: 'Your Name – Your Title',
+    title: 'Manmeet Kaur Oberoi-UG Student',
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
