@@ -60,7 +60,6 @@ const siteConfig = {
   experience: [
     {
       title: 'Volunteer',
-      cardImage: getAsset('images/experience/placeholder.png'),
       place: 'NGO-Snehasadan Boys Home',
       time: '(30/11/25-Present)',
     },
